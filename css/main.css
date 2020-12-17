@@ -1,0 +1,398 @@
+/* // Main style */
+/* --------------------------------------------- */
+@import url('//fonts.googleapis.com/css?family=Oswald:700|Scada:700');
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%
+}
+
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+div.clear {
+    clear: both;
+    text-align: left;
+}
+div.hidden {
+    visibility:hidden;
+    height:0;
+    padding:0
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+fieldset {
+    border: 1px solid #2e9fd2;
+    border-radius: 4px;
+}
+
+textarea {
+    font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.container h2 {
+    font-family: Scada, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    text-shadow:0px 1px 0px #b23e35;
+}
+
+.container h3 {
+    font-family: Scada, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 38px;
+}
+
+.container p {
+    padding: 10px 0;
+}
+
+.content {
+}
+
+/* // Header style */
+/* --------------------------------------------- */
+.navbar {
+    background: #30B7F1;
+    position: relative;
+    min-height: 83px;
+}
+
+.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+    float: left;
+}
+
+.navbar-header #logo {
+    float: left;
+    margin-right: 10px;
+    padding: 8px 0;
+}
+
+.navbar-header #logo img {
+    height: auto;
+    width: 100%;
+    max-width: 315px;
+}
+
+.navbar-header a {
+    font-family: sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 56px;
+}
+
+.navbar-header img {
+    float: left;
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.navbar-collapse {
+    float: right;
+    margin-top: 30px;
+}
+
+.navbar-nav > li {
+    float: left;
+    border: 1px solid #FFF;
+    margin-right: 10px;
+    padding: 0 15px;
+    border-radius: 4px;
+}
+
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav > li > a {
+    font-size: 16px;
+    position: relative;
+    padding: 0 0 0 4px;
+    color: #FFF;
+}
+
+.nav > li > a:hover {
+    text-decoration: none;
+    color: yellow;
+}
+
+/* // Index page style */
+/* --------------------------------------------- */
+
+/* Unseen Software */
+#unseen_software {
+    background: #f5f5f5;
+    padding: 120px 50px;
+}
+
+#unseen_software .container .content {
+    width: 80%;
+    margin: 0 auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#unseen_software img {
+    float: left;
+    margin-right: 5px;
+}
+
+#unseen_software img.logo {
+    float: left;
+    margin-right: 35px;
+}
+
+
+#unseen_software .download {
+    margin: 10px 10px 10px 40px;
+}
+
+#unseen_software .btn_download {
+
+    -moz-box-shadow:inset 0px 1px 0px 0px #f9eca0;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #f9eca0;
+    box-shadow:inset 0px 1px 0px 0px #f9eca0;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f0c911), color-stop(1, #f2ab1e));
+    background:-moz-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+    background:-webkit-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+    background:-o-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+    background:-ms-linear-gradient(top, #f0c911 5%, #f2ab1e 100%);
+    background:linear-gradient(to bottom, #f0c911 5%, #f2ab1e 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0c911', endColorstr='#f2ab1e',GradientType=0);
+    background-color:#f0c911;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid #ffaa22;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFF;
+    font-family: Scada, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 8px 55px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #b23e35;
+}
+
+#unseen_software .btn_download:hover {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffab23), color-stop(1, #ffec64));
+    background: -moz-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+    background: -webkit-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+    background: -o-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+    background: -ms-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+    background: linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64', GradientType=0);
+    background-color: #ffab23;
+}
+
+#unseen_software .btn_download:active {
+    position: relative;
+    top: 1px;
+}
+
+
+/* Unseen Communicator */
+#unseen_communicator {
+    background-color: #ff8000;
+    color: #FFF;
+    padding: 50px 0px 50px 0px;
+}
+
+
+/* Unseen Features */
+#unseen_features {
+    padding: 50px 0px 50px 0px;
+    background-color: #ebf5f9;
+}
+
+#unseen_features img {
+    float: left;
+    margin-right: 10px;
+}
+
+#unseen_features ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+#unseen_features ul li {
+    list-style: none;
+    height: 180px;
+}
+
+
+/* Unseen Protect */
+#unseen_protect {
+    padding: 50px 0px 50px 0px;
+    background-color: #ff8000;
+    color: #FFF;
+}
+
+
+/* Unseen Download */
+#unseen_download {
+    padding: 50px 0px 50px 0px;
+    background-color: #ebf5f9;
+    text-align: center;
+}
+
+#unseen_download h3 {
+    color: #555;
+}
+
+#unseen_download img {
+    height: 150px;
+}
+
+#unseen_download ul {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+#unseen_download ul li {
+    list-style: none;
+    height: 280px;
+    text-align: center;
+}
+
+
+
+
+footer#footer {
+    background: #fff;
+}
+#footer .row {
+    padding: 50px 0px 100px 0px;
+    position: relative;
+    width: 100%;
+}
+
+#footer .links {
+    text-align: center;
+}
+
+nav.footer-nav, p.version {
+    clear: both;
+    display: inline-block;
+}
+
+nav.footer-nav ul li {
+    float: left;
+    list-style: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+/* // Download page style */
+/* --------------------------------------------- */
+#page_download {
+    padding: 50px 0px 50px 0px;
+}
+
+
+
+
+/* // HowTo page style */
+/* --------------------------------------------- */
+.howto {
+    width: 100%;
+}
+
+.howto td {
+    border: 1px solid #CCC;
+    padding: 10px;
+}
+
+.howto .item {
+    font-size: 16px;
+    font-weight: bold;
+    border-bottom: 1px solid #CCC;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
+/* // Download packages */
+/* --------------------------------------------- */
+.package {
+    width: 100%;
+    clear: both;
+    margin-bottom: 35px;
+    float: left;
+    border-bottom: 1px solid #CCC;
+    padding: 15px 0 35px 0;
+}
+
+.package .column {
+    position: relative;
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+}
+
+.package img {
+    max-width: 150px;
+    height: auto;
+}
+
+.package blockquote {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.tiny-2 {
+    width: 15%;
+    float: left;
+}
+
+.tiny-10 {
+    width: 85%;
+    float: left;
+}
+.tiny-10 ul {
+    margin-left: 20px;
+}
+
+code {
+    font-family: Consolas, "Liberation Mono", Courier, monospace;
+    font-weight: normal;
+    color: #333;
+    background-color: #f8f8f8;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dfdfdf;
+    padding: 0.125rem 0.3125rem 0.0625rem;
+}
+
