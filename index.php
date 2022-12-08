@@ -199,16 +199,16 @@ include "header.php";
 
         <ul>
             <li>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-window-installer.zip" target="_blank"><img src="/img/logo/windows.svg"></a>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-window-installer.zip" target="_blank"><h3>Windows Installer</h3></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-window-installer.zip" target="_blank"><img src="/img/logo/windows.svg"></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-window-installer.zip" target="_blank"><h3>Windows Installer</h3></a>
             </li>
             <li>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-installer.zip" target="_blank"><img src="/img/logo/apple.svg"></a>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-installer.zip" target="_blank"><h3>Mac OSX Installer</h3></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-installer.zip" target="_blank"><img src="/img/logo/apple.svg"></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-installer.zip" target="_blank"><h3>Mac OSX Installer</h3></a>
             </li>
             <li>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-ubuntu-installer.zip" target="_blank"><img src="/img/logo/ubuntu.svg"></a>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-ubuntu-installer.zip" target="_blank"><h3>Ubuntu Installer</h3></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-ubuntu-installer.zip" target="_blank"><img src="/img/logo/ubuntu.svg"></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-ubuntu-installer.zip" target="_blank"><h3>Ubuntu Installer</h3></a>
 
             </li>
         </ul>
@@ -219,17 +219,17 @@ include "header.php";
 
         <ul>
             <li>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-windows-portal.zip" target="_blank"><img src="/img/logo/windows-logo.svg"></a>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-windows-portal.zip" target="_blank"><h3>Windows Portal</h3></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-windows-portal.zip" target="_blank"><img src="/img/logo/windows-logo.svg"></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-windows-portal.zip" target="_blank"><h3>Windows Portal</h3></a>
 
             </li>
             <li>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-portal.dmg" target="_blank"><img src="/img/logo/apple-logo.svg"></a>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-portal.dmg" target="_blank"><h3>Mac OSX Portal</h3></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-portal.dmg" target="_blank"><img src="/img/logo/apple-logo.svg"></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-macosx-portal.dmg" target="_blank"><h3>Mac OSX Portal</h3></a>
             </li>
             <li>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-linux-portal.zip" target="_blank"><img src="/img/logo/linux.svg"></a>
-                <a href="https://github.com/unsenep2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-linux-portal.zip" target="_blank"><h3>Linux Portal</h3></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-linux-portal.zip" target="_blank"><img src="/img/logo/linux.svg"></a>
+                <a href="https://github.com/unseenp2pdev/RetroShare/releases/download/v0.6.9/unseenp2p-0.6.9-linux-portal.zip" target="_blank"><h3>Linux Portal</h3></a>
             </li>
         </ul>
 
